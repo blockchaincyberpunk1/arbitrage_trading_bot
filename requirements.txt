@@ -1,0 +1,4 @@
+pandas
+numpy
+python-dotenv
+ccxt  # Crypto exchange API library (You may need to install this specific library based on your chosen exchanges)
