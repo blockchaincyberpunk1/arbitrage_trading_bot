@@ -32,15 +32,6 @@
 
 
 
-<p align="center">
-  <img alt="Arbitrage Trading Bot" [Screenshot] src="python-trading-bot.jpg"><br>
-Arbitrage Trading Bot
-</p>
-
-
-
-
-
 ## Installation
 
 To run the Arbitrage Trading Bot, follow these steps:
